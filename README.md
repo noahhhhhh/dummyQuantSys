@@ -1,0 +1,2 @@
+# dummyQuantSys
+Oanda + Python
